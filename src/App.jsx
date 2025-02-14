@@ -5,7 +5,7 @@ import authService from "./appwrite/auth"
 // import {login, logout} from "./store/authslice"
 // import { Footer, Header } from './components'
 import { Outlet } from 'react-router-dom'
-import { login, logout } from './store/authSlice'
+import { login, logout } from './store/authslice'
 import Header from './components/Header/Header'
 import Footer from './components/Footer/Footer'
 
